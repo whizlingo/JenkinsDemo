@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicroService1", "TestMicroService1\TestMicroService1.csproj", "{3B7AA644-49F8-4C6E-82C9-511F98806B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicroService2", "TestMicroService2\TestMicroService2.csproj", "{F56AED0D-F1E0-490E-A6E2-510EE8237958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7AA644-49F8-4C6E-82C9-511F98806B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7AA644-49F8-4C6E-82C9-511F98806B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7AA644-49F8-4C6E-82C9-511F98806B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7AA644-49F8-4C6E-82C9-511F98806B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56AED0D-F1E0-490E-A6E2-510EE8237958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56AED0D-F1E0-490E-A6E2-510EE8237958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56AED0D-F1E0-490E-A6E2-510EE8237958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56AED0D-F1E0-490E-A6E2-510EE8237958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
